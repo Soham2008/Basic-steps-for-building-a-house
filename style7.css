@@ -1,0 +1,65 @@
+.header{
+    display : flex;
+    justify-content : center;
+
+    border-right : 10px ridge #FF0000;
+    border-left : 10px ridge #FF0000;
+
+    border-top : 10px ridge #000028;
+    border-bottom : 10px ridge #000028;
+}
+
+body{
+    background-color : #20B2AA;
+}
+
+.menu{
+    font-family : 'Courier New', Courier, monospace;
+    font-style : bold;
+    font-size : x-large;
+    background-color: #DAA520;
+    text-align: center;
+    display : flex;
+    justify-content : space-evenly;
+    
+    border-right : 5px ridge #FF0000;
+    border-left : 5px ridge #FF0000;
+
+    border-top : 5px ridge #000028;
+    border-bottom : 5px ridge #000028;
+}
+
+.menu2{
+    display : flex;
+    justify-content : center;
+
+    border-right : 5px ridge #FF0000;
+    border-left : 5px ridge #FF0000;
+
+    border-top : 5px ridge #000028;
+    border-bottom : 5px ridge #000028;
+}
+
+.h1,p,u,b{
+    font-family: Berlin Sans FB;
+    text-align: center;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.item{
+    margin-top:100px;
+
+    text-decoration:underline;
+
+    border-right : 5px ridge #FF0000;
+    border-left : 5px ridge #FF0000;
+
+    border-top : 5px ridge #000028;
+    border-bottom : 5px ridge #000028;    
+}
+
+.item2{
+    display: flex;
+    justify-content: center;
+}

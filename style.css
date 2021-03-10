@@ -1,0 +1,29 @@
+.grid{
+    display : flex;
+    justify-content: center;
+    margin-bottom: 45px;
+}
+
+.item{
+    font-family : 'Courier New', Courier, monospace;
+    font-style : bold;
+    font-size : xx-large;
+    background-color: #DAA520;
+    text-align: center;
+}
+
+.p,h5,u{
+    font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style : bold;
+    font-size : xx-large;
+    text-align: center;
+}
+
+body{
+    background-color : #20B2AA;
+}
+
+.menu{
+    display : flex;
+    justify-content : space-evenly;
+}
